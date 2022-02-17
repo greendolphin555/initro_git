@@ -1,3 +1,4 @@
 test git hub
 abc
-
+・git add
+・git commit
